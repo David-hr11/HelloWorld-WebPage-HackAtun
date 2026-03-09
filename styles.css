@@ -199,7 +199,7 @@ body{
 .about-layout{
   display:flex;
   flex-direction:row;
-  flex-wrap:nowrap;
+  flex-wrap:wrap;
   gap:40px;
   align-items:flex-start;
 
